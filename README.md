@@ -10,9 +10,9 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jasmitaukherjee.jasmitamukherjee)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=vue)
 
 
 
