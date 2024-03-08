@@ -10,7 +10,7 @@
 - 💬 Ask me about java,html,css,javascript,c++,c,python,javascript
 - 📫 How to reach me: jasmitamukherjee4@gmail.com
 - 😄 Pronouns she/her
-- ⚡ All of my projects are available at github.com/jasmitamukherjee
+- ⚡ All of my projects are available at https://github.com/jasmitamukherjee
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jasmitaukherjee.jasmitamukherjee)
 
