@@ -7,3 +7,12 @@
 - 📫 How to reach me: jasmitamukherjee4@gmail.com
 - 😄 Pronouns she/her
 - ⚡ All of my projects are available at github.com/jasmitamukherjee
+
+![](https://visitor-badge.laobi.icu/badge?page_id=jasmitaukherjee.jasmitamukherjee)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=tokyonight)
+
+
+
