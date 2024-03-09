@@ -43,10 +43,10 @@
 
 # Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-jasmitamukherjee-black?style=for-the-badge&logo=github)](https://github.com/jasmitamukherjee)
-[![HackerRank](https://img.shields.io/badge/HackerRank-jasmita__mukherj1-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
-[![Instagram](https://img.shields.io/badge/Instagram-jasmitamukherjee__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/jasmitamukherjee_?igsh=MTZxYTRqMGVjc21rNg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasmita--mukherjee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmita-mukherjee/)
-[![Email](https://img.shields.io/badge/Email-jasmitamukherjee4%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jasmitamukherjee4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jasmitamukherjee)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/jasmitamukherjee_?igsh=MTZxYTRqMGVjc21rNg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmita-mukherjee/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jasmitamukherjee4@gmail.com)
 
 
