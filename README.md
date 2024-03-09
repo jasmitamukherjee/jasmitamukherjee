@@ -32,14 +32,9 @@
 </div>
 
 
-## :fire: My Stats :
 
+## :fire: My Stats : ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=vue) <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasmitamukherjee"/></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=vue)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasmitamukherjee"/></a>
 
 # 👋 Connect with Me
 
