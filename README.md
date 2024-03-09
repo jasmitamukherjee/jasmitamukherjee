@@ -1,4 +1,4 @@
-<p align="center"># Hey there !, I am Jasmita 👋</p>
+<h1 align="center">Hi there, I am Jasmita 👋</h1>
 
 
 <div id="header" align="center">
