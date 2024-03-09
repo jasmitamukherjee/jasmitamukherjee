@@ -1,4 +1,4 @@
-## Hi there, I am Jasmita 👋
+# Hi there, I am Jasmita 👋
 
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" width="300"/>
@@ -16,7 +16,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
 </div>
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue)
@@ -41,7 +41,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasmitamukherjee"/></a>
 
-# Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jasmitamukherjee)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
