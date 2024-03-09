@@ -42,7 +42,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasmitamukherjee"/></a>
 
-
 # 👋 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jasmitamukherjee)
