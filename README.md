@@ -5,8 +5,8 @@
   <img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" width="300"/>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmitamukherjee" alt="jasmitamukherjee" style={{margin:"5px";}} /></a> </p>
 
+## 👨‍💻 About me :
 
 - 🔭 I’m currently working on full stack development
 - 🌱 I’m currently learning react-native
@@ -52,7 +52,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jasmitamukherjee"/></a>
 
-# 👋 Connect with Me
+## 👋 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jasmitamukherjee)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
