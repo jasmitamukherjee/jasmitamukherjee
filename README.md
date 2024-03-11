@@ -57,6 +57,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jasmitamukherjee)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/jasmitamukherjee_?igsh=MTZxYTRqMGVjc21rNg==)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jasmita-mukherjee/)
+[![LinkedIn]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg")](https://www.linkedin.com/in/jasmita-mukherjee/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:jasmitamukherjee4@gmail.com)
 
