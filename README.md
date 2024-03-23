@@ -51,7 +51,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmitamukherjee&theme=vue)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmitamukherjee&show_icons=true&locale=en&layout=compact" alt="jasmitamukherjee" /></p>
 
