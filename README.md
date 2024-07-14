@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About me :
 
-- 🔭 I’m currently working on a freelance mobile applocation for a Retail Store.
+- 🔭 I’m currently working on a freelance mobile application for a Retail Store.
 - 🌱 I’m currently learning React-Native and Svelte.
 - 💬 Ask me about java,html,css,javascript,c++,c,python,javascript
-- 📫 How to reach me: jasmitamukherjee4@gmail.com
+- 📫 How to reach me: jasmitamukherjee6@gmail.com
 - 😄 Pronouns she/her
 - ⚡ All of my projects are available at https://github.com/jasmitamukherjee
 
