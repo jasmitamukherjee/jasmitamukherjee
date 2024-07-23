@@ -10,7 +10,7 @@
 ## 👨‍💻 About me :
 
 - 🔭 I’m currently working on a freelance mobile application for a Retail Store.
-- 🌱 I’m currently learning React-Native and Svelte.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about java,html,css,javascript,c++,c,python,javascript
 - 📫 How to reach me: jasmitamukherjee6@gmail.com
 - 😄 Pronouns she/her
