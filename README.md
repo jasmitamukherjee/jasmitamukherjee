@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me:
-- 🔭 Currently revolutionizing the retail space with a cutting-edge mobile application and building my own retail business.
+- 🔭 Currently interning as an AI/ML Full-Stack Developer at Bharat Forge Ltd (Pune,India) while revolutionizing the retail space with a cutting-edge mobile application and building my own retail business.
 - 🌱 Actively mastering Flutter to build seamless cross-platform apps.
 - 💬 My expertise spans across Java, Python, C++, React, Node.js, and more. Feel free to ask me anything!
 - 📫 Reach out to me: jasmitamukherjee6@gmail.com
