@@ -1,26 +1,25 @@
-<h1 align="center">Hi there, I am Jasmita 👋</h1>
+# Hey, I'm Jasmita 👋
 
-<h4 align="center"> Always ready to explore new things !</h4>
-<div id="header" align="center">
+### A passionate AI/ML full-stack developer on a mission to build innovative solutions!
+
+<div align="center">
   <img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" width="300"/>
 </div>
 
 ---
 
-## 👨‍💻 About me :
-
-- 🔭 I’m currently working on a freelance mobile application for a Retail Store.
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about java,html,css,javascript,c++,c,python,javascript
-- 📫 How to reach me: jasmitamukherjee6@gmail.com
-- 😄 Pronouns she/her
-- ⚡ All of my projects are available at https://github.com/jasmitamukherjee
-
-![](https://visitor-badge.laobi.icu/badge?page_id=jasmitaukherjee.jasmitamukherjee)
+## 🚀 About Me:
+- 🔭 Currently revolutionizing the retail space with a cutting-edge mobile application and building my own retail business.
+- 🌱 Actively mastering Flutter to build seamless cross-platform apps.
+- 💬 My expertise spans across Java, Python, C++, React, Node.js, and more. Feel free to ask me anything!
+- 📫 Reach out to me: jasmitamukherjee6@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Explore my projects on [GitHub](https://github.com/jasmitamukherjee)
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Technologies & Tools I Love:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,21 +36,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
-
-
-  
 </div>
 
 ---
 
-
-
-## :fire: My Stats :
-
+## :fire: My GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmitamukherjee&show_icons=true&theme=vue)
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmitamukherjee&show_icons=true&locale=en&layout=compact" alt="jasmitamukherjee" /></p>
 
@@ -59,7 +50,7 @@
 
 ---
 
-## 👋 Connect with Me
+## 👋 Let's Connect:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jasmitamukherjee)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/jasmita_mukherj1)
@@ -68,4 +59,3 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:jasmitamukherjee4@gmail.com)
 
 ---
-
